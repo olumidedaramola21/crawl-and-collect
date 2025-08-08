@@ -34,7 +34,7 @@ This repository serves as a learning resource and reference for different web sc
 
 ### 3. Weather Scraper (`weather_scraper/`)
 - **Technique**: OpenWeatherMap API
-- **Target**: Weather data for ML projects
+- **Target**: Weather data 
 - **Libraries**: `requests`, `json`, `pandas`
 
 ### 4. API Scraper (Coming Soon)
